@@ -1,0 +1,55 @@
+2018-04-19T00:27:55.493Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-19T00:27:55.513Z - normal: checking language setting...
+2018-04-19T00:27:55.513Z - normal: Language: zh
+2018-04-19T00:28:01.212Z - success: protocol editor-framework registered
+2018-04-19T00:28:01.212Z - success: protocol app registered
+2018-04-19T00:28:01.212Z - success: protocol theme registered
+2018-04-19T00:28:01.212Z - success: protocol packages registered
+2018-04-19T00:28:01.212Z - success: protocol unpack registerred
+2018-04-19T00:28:01.212Z - success: protocol disable-commonjs registerred
+2018-04-19T00:28:01.222Z - normal: failed to connect login server... skipping login
+2018-04-19T00:28:01.222Z - normal: Check project F:\homework\游戏架构设计\摘星星小游戏\start_project
+2018-04-19T00:28:01.232Z - normal: Initializing Cocos2d
+2018-04-19T00:28:02.072Z - normal: Initializing Asset Database
+2018-04-19T00:28:02.332Z - success: protocol uuid registerred
+2018-04-19T00:28:02.332Z - success: protocol db registerred
+2018-04-19T00:28:02.332Z - success: protocol thumbnail registerred
+2018-04-19T00:28:02.332Z - normal: Loading editor/builtin packages
+2018-04-19T00:28:02.602Z - success: anysdk loaded
+2018-04-19T00:28:03.252Z - success: assets loaded
+2018-04-19T00:28:03.262Z - success: builder loaded
+2018-04-19T00:28:03.272Z - success: cocos-analytics loaded
+2018-04-19T00:28:03.292Z - success: console loaded
+2018-04-19T00:28:03.472Z - success: fb-instant-games loaded
+2018-04-19T00:28:03.492Z - success: hierarchy loaded
+2018-04-19T00:28:03.502Z - success: inspector loaded
+2018-04-19T00:28:03.512Z - success: keystore loaded
+2018-04-19T00:28:03.522Z - success: node-library loaded
+2018-04-19T00:28:03.532Z - success: package-asset loaded
+2018-04-19T00:28:03.542Z - success: preferences loaded
+2018-04-19T00:28:03.552Z - success: project-exporter loaded
+2018-04-19T00:28:03.612Z - success: project-importer loaded
+2018-04-19T00:28:03.622Z - success: project-settings loaded
+2018-04-19T00:28:03.632Z - success: ui-kit loaded
+2018-04-19T00:28:03.642Z - success: ui-grid loaded
+2018-04-19T00:28:03.662Z - success: scene loaded
+2018-04-19T00:28:03.662Z - success: sprite-editor loaded
+2018-04-19T00:28:03.672Z - success: store loaded
+2018-04-19T00:28:03.692Z - success: timeline loaded
+2018-04-19T00:28:03.692Z - normal: Loading builtin packages
+2018-04-19T00:28:03.702Z - success: asset-db-debugger loaded
+2018-04-19T00:28:03.712Z - success: code-editor loaded
+2018-04-19T00:28:03.722Z - success: color-picker loaded
+2018-04-19T00:28:03.722Z - success: package-manager loaded
+2018-04-19T00:28:03.762Z - success: sdkbox loaded
+2018-04-19T00:28:03.772Z - success: tester loaded
+2018-04-19T00:28:03.772Z - success: ui-kit-preview-extra loaded
+2018-04-19T00:28:03.782Z - success: ui-kit-preview loaded
+2018-04-19T00:28:03.782Z - success: ui-tree loaded
+2018-04-19T00:28:08.652Z - normal: Initializing project F:\homework\游戏架构设计\摘星星小游戏\start_project
+2018-04-19T00:28:08.662Z - normal: Loading packages
+2018-04-19T00:28:08.682Z - normal: Watching packages
+2018-04-19T00:28:08.732Z - normal: Run Application
+2018-04-19T00:28:11.873Z - success: preview server running at http://localhost:7456
+2018-04-19T00:28:29.095Z - normal: 1.9.0
+2018-04-19T00:59:40.927Z - info: shutdown preview server
